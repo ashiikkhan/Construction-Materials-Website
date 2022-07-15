@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Mujammel Haque",
+    "designation": "Managing director",
+    "img": "./assets/team/1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Helal Uddin",
+    "designation": "Project Manager",
+    "img": "./assets/team/2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Noor Mohammed Chowdhury",
+    "designation": "Manager",
+    "img": "./assets/team/3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Rayhan Ahmed Talukder",
+    "designation": "Customer Service Representative",
+    "img": "./assets/team/4.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Athaur Rahman",
+    "designation": "Assistant Manager",
+    "img": "./assets/team/5.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Sadel Afridi",
+    "designation": "Administrative Assistant",
+    "img": "./assets/team/6.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Khalek Sarder",
+    "designation": "Receptionist",
+    "img": "./assets/team/7.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "A.K.M Azom",
+    "designation": "Accountant",
+    "img": "./assets/team/8.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Md. Monsur Mia",
+    "designation": "Project Manager",
+    "img": "./assets/team/9.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Krisna Mohan",
+    "designation": "Business Analyst",
+    "img": "./assets/team/10.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Koyes Ahmod",
+    "designation": "Human Resource Manager",
+    "img": "./assets/team/11.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Sakib Ahmed Topu",
+    "designation": "Sales Representative",
+    "img": "./assets/team/12.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Abu Sayeed Chowdhury",
+    "designation": "Chief Marketing Officer",
+    "img": "./assets/team/13.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Abdul Hussain",
+    "designation": "Finance Manager",
+    "img": "./assets/team/14.jpeg"
+  }
+]

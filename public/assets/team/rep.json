@@ -1,0 +1,72 @@
+[
+{	"id": 1,
+	"name": "Mujammel Haque"
+	"designation": "Managing director",
+	"img": "1.jpeg",
+},
+{	"id": 2,
+	"name": "Helal Uddin"
+	"designation": "Project Manager",
+	"img": "2.jpeg",
+},
+{	"id": 3,
+	"name": "Noor Mohammed Chowdhury"
+	"designation": "Manager",
+	"img": "3.jpeg",
+},
+{	"id": 4,
+	"name": "Rayhan Ahmed Talukder"
+	"designation": "Customer Service Representative",
+	"img": "4.jpeg",
+},
+{	"id": 5,
+	"name": "Athaur Rahman"
+	"designation": "Assistant Manager",
+	"img": "5.jpeg",
+},
+{	"id": 6,
+	"name": "Sadel Afridi"
+	"designation": "Administrative Assistant",
+	"img": "6.jpeg",
+},
+{	"id": 7,
+	"name": "Khalek Sarder"
+	"designation": "Receptionist",
+	"img": "7.jpeg",
+},
+{	"id": 8,
+	"name": "A.K.M Azom"
+	"designation": "Accountant",
+	"img": "8.jpeg",
+},
+{	"id": 9,
+	"name": "Md. Monsur Mia"
+	"designation": "Project Manager",
+	"img": "9.jpeg",
+},
+{	"id": 10,
+	"name": "Krisna Mohan"
+	"designation": "Business Analyst",
+	"img": "10.jpeg",
+},
+{	"id": 11,
+	"name": "Koyes Ahmod"
+	"designation": "Human Resource Manager",
+	"img": "11.jpeg",
+},
+{	"id": 12,
+	"name": "Sakib Ahmed Topu"
+	"designation": "Sales Representative",
+	"img": "12.jpeg",
+},
+{	"id": 13,
+	"name": "Abu Sayeed Chowdhury"
+	"designation": "Chief Marketing Officer",
+	"img": "13.jpeg",
+},
+{	"id": 14,
+	"name": "Abdul Hussain"
+	"designation": "Finance Manager",
+	"img": "14.jpeg",
+},
+]
