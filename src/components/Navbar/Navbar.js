@@ -26,8 +26,8 @@ const Navbar = () => {
       <div
         className={`w-2/5 absolute flex flex-col md:w-1/2 md:static md:flex md:flex-row justify-around text-white ${
           open
-            ? 'top-24 right-0 bg-red-600 transition ease-in-out duration-500'
-            : 'top-[-8rem] right-0 transition ease-in-out duration-500'
+            ? 'top-[6.25rem] right-0 w-2/3 text-center bg-red-600 transition ease-in-out duration-500'
+            : 'top-[-6rem] right-0'
         }`}>
         {routes.map((route) => (
           <Link
