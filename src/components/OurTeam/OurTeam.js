@@ -4,7 +4,6 @@ import TeamMember from '../TeamMember/TeamMember';
 
 const OurTeam = () => {
   const [team, setTeam] = useTeamData();
-  console.log(team);
   return (
     <div className='p-4'>
       <h2 className='text-2xl font-medium text-center text-gray-700 p-4 my-4 sm:text-3xl md:text-4xl'>

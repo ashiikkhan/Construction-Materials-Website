@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "name": "Brick",
+    "img": "./assets/products/brick.jpg"
+  },
+
+  {
+    "id": "2",
+    "name": "Stone",
+    "img": "./assets/products/lc-black.jpg"
+  },
+
+  {
+    "id": "3",
+    "name": "Sand",
+    "img": "./assets/products/sand.jpg"
+  }
+]
