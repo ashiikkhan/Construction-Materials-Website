@@ -24,16 +24,16 @@ const Navbar = () => {
         </div>
       </div>
       <div
-        className={`w-2/5 absolute flex flex-col md:w-1/2 md:static md:flex md:flex-row justify-around text-white ${
+        className={`w-2/5 absolute flex flex-col md:w-1/2 md:static md:flex md:flex-row justify-around text-white  ${
           open
-            ? 'top-[6.25rem] right-0 w-2/3 text-center bg-red-600 transition ease-in-out duration-500'
+            ? 'top-[6.25rem] right-0 w-2/3 border border-red-300 text-center bg-red-600 transition ease-in-out duration-500'
             : 'top-[-6rem] right-0'
         }`}>
         {routes.map((route) => (
           <Link
             key={route.id}
             to={route.link}
-            className='font-medium py-1 px-6 lg:px-8 md:rounded-md transition ease-in-out delay-50 hover:text-red-600 hover:bg-white hover:delay-50  hover:ease-in-out'>
+            className='font-medium py-1 px-6 lg:px-8 md:rounded-md transition ease-in-out hover:text-red-600 hover:bg-white active:bg-white hover:scale-110 active:scale-110 hover:ease-in-out'>
             {route.name}
           </Link>
         ))}
