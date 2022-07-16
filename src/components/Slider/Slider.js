@@ -37,8 +37,8 @@ const Slider = () => {
         <div className='w-full md:w-11/12 grid grid-cols-12 justify-items-center items-center p-2'>
           <button
             onClick={handleOnPreviousClick}
-            className='bg-red-400 text-white p-2 rounded-full hover:scale-110 '>
-            <ChevronDoubleLeftIcon className='h-5  w-5 md:h-6 md:w-6  active:scale-125 active:bg-white md:hover:scale-125 hidden md:block'></ChevronDoubleLeftIcon>
+            className='bg-red-400 text-white p-2 rounded-full hover:scale-110 hidden md:block'>
+            <ChevronDoubleLeftIcon className='h-5  w-5 md:h-6 md:w-6  active:scale-125 active:bg-white md:hover:scale-125 '></ChevronDoubleLeftIcon>
           </button>
           <img
             className='shadow-2xl shadow-red-200 col-span-10 col-start-1 col-end-13 md:col-start-2 md:col-end-12 w-full h-64 md:w-11/12 md:h-[26rem]'
@@ -47,8 +47,8 @@ const Slider = () => {
           />
           <button
             onClick={handleOnNextClick}
-            className='bg-red-400 text-white p-2 rounded-full hover:scale-110'>
-            <ChevronDoubleRightIcon className='h-5 w-5 md:h-6 md:w-6  active:scale-125 active:bg-white md:hover:scale-125 hidden md:block'></ChevronDoubleRightIcon>
+            className='bg-red-400 text-white p-2 rounded-full hover:scale-110 hidden md:block'>
+            <ChevronDoubleRightIcon className='h-5 w-5 md:h-6 md:w-6  active:scale-125 active:bg-white md:hover:scale-125 '></ChevronDoubleRightIcon>
           </button>
         </div>
       </div>

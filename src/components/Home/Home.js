@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useProductData from '../../hooks/useProductData';
 import useTeamData from '../../hooks/useTeamData';
 import Slider from '../Slider/Slider';
@@ -40,9 +41,11 @@ const Home = () => {
               </>
             ))}
           </div>
-          <button className=' p-4 m-6 rounded-2xl shadow-2xl shadow-red-200 text-white bg-red-400 hover:scale-110 transition duration-300'>
-            Go to Products Page
-          </button>
+          <Link to='/products'>
+            <button className=' p-4 m-6 rounded-2xl shadow-2xl shadow-red-200 text-white bg-red-400 hover:scale-110 transition duration-300'>
+              Go to Products Page
+            </button>
+          </Link>
         </div>
       </div>
       <div className='my-20 text-center'>
@@ -64,9 +67,11 @@ const Home = () => {
             </div>
           ))}
         </div>
-        <button className=' p-4 m-6 rounded-2xl shadow-2xl shadow-red-200 text-white bg-red-400 hover:scale-110 transition duration-300'>
-          All Team Members
-        </button>
+        <Link to='ourteam'>
+          <button className=' p-4 m-6 rounded-2xl shadow-2xl shadow-red-200 text-white bg-red-400 hover:scale-110 transition duration-300'>
+            All Team Members
+          </button>
+        </Link>
       </div>
     </div>
   );
